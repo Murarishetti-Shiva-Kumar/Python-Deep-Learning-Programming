@@ -2,7 +2,7 @@ Python & Deep Learning Programming
 
 ICP 1:
   
-  Source Code: https://github.com/Murarishetti-Shiva-Kumar/Python-Deep-Learning-Programming.git
+  Source Code: https://github.com/Murarishetti-Shiva-Kumar/Python-Deep-Learning-Programming/tree/master/ICP%201
   
   Wiki Page: https://github.com/Murarishetti-Shiva-Kumar/Python-Deep-Learning-Programming/wiki/ICP-1
   
