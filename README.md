@@ -10,6 +10,8 @@ ICP 1:
 
 ICP 2:
  
- Source Code:
+ Source Code: https://github.com/Murarishetti-Shiva-Kumar/Python-Deep-Learning-Programming/tree/master/ICP%202
   
   Wiki Page:
+  
+  Video Link: https://youtu.be/3czXq2zmK4c
