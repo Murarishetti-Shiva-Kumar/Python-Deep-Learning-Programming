@@ -20,6 +20,6 @@ ICP 3:
  
  Source Code: https://github.com/Murarishetti-Shiva-Kumar/Python-Deep-Learning-Programming/tree/master/ICP%203
   
-  Wiki Page: 
+  Wiki Page: https://github.com/Murarishetti-Shiva-Kumar/Python-Deep-Learning-Programming/wiki/ICP-3
   
   Video Link: https://youtu.be/2x6CtOlMVtg
