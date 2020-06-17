@@ -18,8 +18,8 @@ ICP 2:
 
 ICP 3:
  
- Source Code: 
+ Source Code: https://github.com/Murarishetti-Shiva-Kumar/Python-Deep-Learning-Programming/tree/master/ICP%203
   
   Wiki Page: 
   
-  Video Link: 
+  Video Link: https://youtu.be/2x6CtOlMVtg
