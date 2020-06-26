@@ -37,3 +37,11 @@ ICP 5:
   Wiki Page: https://github.com/Murarishetti-Shiva-Kumar/Python-Deep-Learning-Programming/wiki/ICP-5
   
   Video Link: https://youtu.be/9leWeWu3asU
+
+ICP 6:
+ 
+ Source Code: 
+  
+  Wiki Page: 
+  
+  Video Link: https://youtu.be/iL147SR5ibM
