@@ -40,7 +40,7 @@ ICP 5:
 
 ICP 6:
  
- Source Code: 
+ Source Code: https://github.com/Murarishetti-Shiva-Kumar/Python-Deep-Learning-Programming/tree/master/ICP%206
   
   Wiki Page: 
   
