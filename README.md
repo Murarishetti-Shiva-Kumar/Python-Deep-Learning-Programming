@@ -48,8 +48,8 @@ ICP 6:
 
 ICP 7:
  
- Source Code: 
+ Source Code: https://github.com/Murarishetti-Shiva-Kumar/Python-Deep-Learning-Programming/tree/master/ICP%207
   
   Wiki Page: 
   
-  Video Link: 
+  Video Link: https://youtu.be/7Nvq2nywxuk
