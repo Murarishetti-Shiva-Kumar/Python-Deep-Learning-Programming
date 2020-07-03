@@ -53,3 +53,11 @@ ICP 7:
   Wiki Page: https://github.com/Murarishetti-Shiva-Kumar/Python-Deep-Learning-Programming/wiki/ICP-7
   
   Video Link: https://youtu.be/7Nvq2nywxuk
+   
+ICP 8:
+ 
+ Source Code: https://github.com/Murarishetti-Shiva-Kumar/Python-Deep-Learning-Programming/tree/master/ICP%208
+  
+  Wiki Page: 
+  
+  Video Link: https://youtu.be/7AIOb6HAckw
