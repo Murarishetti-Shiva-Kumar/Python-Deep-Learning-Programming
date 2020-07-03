@@ -58,6 +58,6 @@ ICP 8:
  
  Source Code: https://github.com/Murarishetti-Shiva-Kumar/Python-Deep-Learning-Programming/tree/master/ICP%208
   
-  Wiki Page: 
+  Wiki Page: https://github.com/Murarishetti-Shiva-Kumar/Python-Deep-Learning-Programming/wiki/ICP-8
   
   Video Link: https://youtu.be/7AIOb6HAckw
