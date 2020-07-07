@@ -68,4 +68,4 @@ Project Exam 1:
   
   Wiki Page: https://github.com/Murarishetti-Shiva-Kumar/Python-Deep-Learning-Programming/wiki/Project-Exam-1
   
-  Video Link: https://youtu.be/QK8RLp7HVc4
+  Video Link: https://youtu.be/CHBpeOLui_0
