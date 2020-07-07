@@ -61,3 +61,11 @@ ICP 8:
   Wiki Page: https://github.com/Murarishetti-Shiva-Kumar/Python-Deep-Learning-Programming/wiki/ICP-8
   
   Video Link: https://youtu.be/7AIOb6HAckw
+  
+Project Exam 1:
+
+ Source Code: https://github.com/Murarishetti-Shiva-Kumar/Python-Deep-Learning-Programming/tree/master/Project%20Exam%201
+  
+  Wiki Page: https://github.com/Murarishetti-Shiva-Kumar/Python-Deep-Learning-Programming/wiki/Project-Exam-1
+  
+  Video Link: https://youtu.be/QK8RLp7HVc4
