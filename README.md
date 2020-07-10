@@ -76,4 +76,4 @@ Project Exam 1:
   
   Wiki Page:  https://github.com/Murarishetti-Shiva-Kumar/Python-Deep-Learning-Programming/wiki/ICP-9
   
-  Video Link: 
+  Video Link: https://youtu.be/AiMWTglHf3Q
