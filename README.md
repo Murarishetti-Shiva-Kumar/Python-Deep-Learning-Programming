@@ -104,7 +104,7 @@ ICP 10:
 
   ICP 13:
  
-  Source Code: https://github.com/Murarishetti-Shiva-Kumar/Python-Deep-Learning-Programming/blob/master/ICP%2013/fashion_mnist.ipynb
+  Source Code: https://github.com/Murarishetti-Shiva-Kumar/Python-Deep-Learning-Programming/tree/master/ICP%2013
   
   Wiki Page:  
   
