@@ -101,3 +101,11 @@ ICP 10:
   Wiki Page:  https://github.com/Murarishetti-Shiva-Kumar/Python-Deep-Learning-Programming/wiki/ICP-12
   
   Video Link: https://youtu.be/Fe9vifOBSwY
+
+  ICP 13:
+ 
+  Source Code: https://github.com/Murarishetti-Shiva-Kumar/Python-Deep-Learning-Programming/blob/master/ICP%2013/fashion_mnist.ipynb
+  
+  Wiki Page:  
+  
+  Video Link: https://youtu.be/q0R5sP1if90
