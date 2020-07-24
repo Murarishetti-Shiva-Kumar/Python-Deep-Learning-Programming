@@ -106,6 +106,6 @@ ICP 10:
  
   Source Code: https://github.com/Murarishetti-Shiva-Kumar/Python-Deep-Learning-Programming/tree/master/ICP%2013
   
-  Wiki Page:  
+  Wiki Page:  https://github.com/Murarishetti-Shiva-Kumar/Python-Deep-Learning-Programming/wiki/ICP-13
   
   Video Link: https://youtu.be/q0R5sP1if90
