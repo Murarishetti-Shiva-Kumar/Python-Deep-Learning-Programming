@@ -109,3 +109,11 @@ ICP 10:
   Wiki Page:  https://github.com/Murarishetti-Shiva-Kumar/Python-Deep-Learning-Programming/wiki/ICP-13
   
   Video Link: https://youtu.be/q0R5sP1if90
+
+Project Exam 2:
+
+ Source Code: https://github.com/Murarishetti-Shiva-Kumar/Python-Deep-Learning-Programming/tree/master/Project%20Exam%202
+  
+  Wiki Page: https://github.com/Murarishetti-Shiva-Kumar/Python-Deep-Learning-Programming/wiki/Project-Exam-2
+  
+  Video Link: https://youtu.be/bM62WNK5RYc
